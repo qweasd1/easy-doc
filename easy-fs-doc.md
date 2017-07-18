@@ -1,7 +1,7 @@
 # easy-fs
 easy-fs module provide you a well defined interface to do CRUD operations and monitor file changes on your file system.
 
-## Initialization
+## Installation
 to install it:
 ```bash
 // yarn
